@@ -1,6 +1,5 @@
 <template>
 	<div id="app" >
-	ahuhu
 	 <router-view></router-view>
 	</div>
        
